@@ -1,0 +1,4 @@
+digraph Tree {
+node [shape=box, style="filled", color="black"] ;
+0 [label=<node &#35;0<br/>samples = 368<br/>value = 368.0>, fillcolor="#ffffff"] ;
+}
